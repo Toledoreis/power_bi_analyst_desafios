@@ -6,7 +6,7 @@ Este repositório contém os arquivos do projeto "Relatório de Vendas" realizad
 
 - **Dataset:** Contém os dados brutos utilizados para a criação do relatório.
 - **Power BI Report:** Arquivo do relatório do Power BI, com visualizações interativas e insights sobre as vendas.
-- **Arquivo PDFV:** Arquivo do relatório em PDF.
+- **Arquivo PDF:** Arquivo do relatório em PDF.
 
 ## Descrição do Relatório
 

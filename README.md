@@ -1,6 +1,6 @@
 # Relatório de Vendas - Desafio Power BI
 
-Este repositório contém os arquivos do projeto "Relatório de Vendas" realizado com o Power BI. O projeto foi desenvolvido como parte de um desafio para um curso de Power BI, com o objetivo de demonstrar a capacidade de analisar e visualizar dados de vendas de forma clara e concisa.
+Este repositório contém os arquivos dos Desafios Dio Formação Data Analyst realizado com o Power BI. Este repositória conterá os arquivos dos desafios conforme forem sendo feitos.
 
 ## Conteúdo
 
@@ -17,7 +17,7 @@ O relatório de vendas apresenta uma análise completa das vendas, considerando:
 - **Países:** Soma de vendas, soma de unidades vendidas e soma de lucros por país.
 - **Lucro:** Média de lucro por ano e mês, soma de lucro por país.
 
-O relatório inclui gráficos, tabelas e mapas interativos para fornecer uma visão geral completa e insights sobre as tendências de vendas.
+O relatório inclui gráficos, tabelas e mapas interativos para fornecer uma visão geral completa e insights sobre as tendências de vendas e Lucros.
 
 ## Objetivo
 
@@ -30,9 +30,9 @@ O objetivo deste projeto é:
 
 ## Uso
 
-Para utilizar o relatório, abra o arquivo `desafio modulo 2.pbix` no Power BI Desktop. Você poderá interagir com as visualizações e filtros para explorar os dados e obter insights sobre as vendas.
+Para utilizar os relatórios, escolha o arquivo `.pbix` e abra no Power BI Desktop. Você poderá interagir com as visualizações e filtros para explorar os dados e obter insights sobre as vendas.
 
 ## Conclusões
 
-O relatório de vendas fornece informações valiosas para a tomada de decisões estratégicas. As análises revelaram tendências importantes que podem ser usadas para melhorar as estratégias de vendas e aumentar o lucro.
+O relatório de vendas e Lucros fornece informações valiosas para a tomada de decisões estratégicas. As análises revelaram tendências importantes que podem ser usadas para melhorar as estratégias de vendas e aumentar o lucro.
 

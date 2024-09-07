@@ -1,4 +1,4 @@
-# Relatório de Vendas - Desafio Power BI
+# Relatório - Desafio Power BI
 
 Este repositório contém os arquivos dos Desafios Dio Formação Data Analyst realizado com o Power BI. Este repositória conterá os arquivos dos desafios conforme forem sendo feitos.
 
